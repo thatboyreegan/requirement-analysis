@@ -29,7 +29,7 @@ This is when the various requiremtents of the software are collected. The collec
 - Obseerving end users in their wrking environment to understand their needs.  
 - Reviewing existing documentation and systems to understand current functionalities and requirements.
 
-### Requirement elicitation
+### Requirement Elicitation
 
 This is the practice of researching and discovering the requirements of a system from stakeholders.  
 Achieving this involves:  
@@ -55,7 +55,7 @@ This stage invloves the following steps:
 - Assessment of the feasibility of requirements in terms of technical, financial and time constraints.  
 - Creation of models to visualize and analyze requirements.  
 
-### Requirement validation
+### Requirement Validation
 
 The steps involved in this stage include:  
 
@@ -93,4 +93,26 @@ A use case diagram provides a high level view of the system's functionality by i
 - Help to outline user interactions and plan features ensuring that the design aligns with user needs.
 - Help define a boundary of what is included in the system and what is not.
 
-use case diagram for the booking and management system:
+Use case diagram for the booking and management system:
+
+## Acceptance Criteria
+
+These refer to the conditions that a feature has to meet to be accepted by stakeholders. 
+These criteria have to be specific, measureable and included functional as well as non-functional aspects.  
+
+### Importance of Acceptance Criteria in Requirement Analysis
+
+- Help to create the same image of the software for all the parties working on it.
+- They help the development team design software that is easy to understand and use.
+- They provide a basis for testing and validation.
+- They also help in maintaining quality and even in meeting user expectations.
+
+Examples of acceptance criteria for a feature like the Checkout feature in the booking management system include:
+
+- Accessibility from the booking summary page.
+- Display of a breakdown of charges.
+- Users should have the ability to select or enter payment methods.
+- All the required fields must be validated on submission.
+- A user must be logged in or provide guest details to proceed to checkout.
+- Snsitive payment data must not be stored in the system.
+- Page has to be responsive and accessible on mobile devices, tablets and desktops.
