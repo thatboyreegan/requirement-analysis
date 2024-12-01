@@ -65,7 +65,7 @@ The steps involved in this stage include:
 
 ## Types of Requirements
 
-There are two types of reuirements in requirements analysis and they include:  
+There are two types of requirements in requirements analysis and they include:  
 
 ### Functional requirements
 
@@ -80,3 +80,17 @@ These requiremnts define how the system should perform or the general properties
 These requiremnts focus on user expectation and are often defined by developers or other experts.  
 They are not mandatory but are desirable.  
 Examples include performance, security, scalability, reliability and usability.  
+
+## Use Case Diagrams
+
+Thse serve as a visual representation that illustrate the interactions between users and a system.  
+A use case diagram provides a high level view of the system's functionality by illustrating the various ways a user can interact with it.  
+
+### Benefits of use case diagrams
+
+- They help visualize how different users interact with the system.
+- Help provide a clear and simple way to convey system functionality.
+- Help to outline user interactions and plan features ensuring that the design aligns with user needs.
+- Help define a boundary of what is included in the system and what is not.
+
+use case diagram for the booking and management system:
