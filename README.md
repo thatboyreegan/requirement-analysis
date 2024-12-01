@@ -93,11 +93,11 @@ A use case diagram provides a high level view of the system's functionality by i
 - Help to outline user interactions and plan features ensuring that the design aligns with user needs.
 - Help define a boundary of what is included in the system and what is not.
 
-Use case diagram for the booking and management system:
+[Use case diagram for the booking and management system](https://drive.google.com/file/d/1grE7dpl5LwEu2CviXeeQAVf3X3eqDWjD/view?usp=drive_link)
 
 ## Acceptance Criteria
 
-These refer to the conditions that a feature has to meet to be accepted by stakeholders. 
+These refer to the conditions that a feature has to meet to be accepted by stakeholders.  
 These criteria have to be specific, measureable and included functional as well as non-functional aspects.  
 
 ### Importance of Acceptance Criteria in Requirement Analysis
@@ -114,5 +114,5 @@ Examples of acceptance criteria for a feature like the Checkout feature in the b
 - Users should have the ability to select or enter payment methods.
 - All the required fields must be validated on submission.
 - A user must be logged in or provide guest details to proceed to checkout.
-- Snsitive payment data must not be stored in the system.
+- Sensitive payment data must not be stored in the system.
 - Page has to be responsive and accessible on mobile devices, tablets and desktops.
