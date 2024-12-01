@@ -62,3 +62,21 @@ The steps involved in this stage include:
 - Reviewing of the documented requirements with stakeholders to ensure accuracy and completeness.  
 - Definition of clear acceptance criteria for each requirement to ensure they meet expected standards.  
 - Establishment of traceability matrices to ensure all requirements are addressed during development and testing.  
+
+## Types of Requirements
+
+There are two types of reuirements in requirements analysis and they include:  
+
+### Functional requirements
+
+These are requirements that describe what the system should do, its features and functions.  
+They focus more on the user requiremnts.  
+They are mandatory and are often defined by the user.  
+A few examples of such requirements include user authentication, user registration, propersy search and the booking system.  
+
+### Non-functional requirements
+
+These requiremnts define how the system should perform or the general properties of a software system. They are often reffered to as quality attributes.  
+These requiremnts focus on user expectation and are often defined by developers or other experts.  
+They are not mandatory but are desirable.  
+Examples include performance, security, scalability, reliability and usability.  
